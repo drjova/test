@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.1.1",
+  "homepage": "https://github.com/drjova/test",
+  "authors": [
+    "Harris Tzovanakis <me@drjova.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
